@@ -8,6 +8,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
+      "internalConsoleOptions": "openOnSessionStart",
       "program": "${workspaceFolder}/src/index.ts",
       "outFiles": [
         "${workspaceFolder}/**/*.js"
