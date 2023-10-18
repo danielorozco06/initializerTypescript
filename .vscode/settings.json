@@ -4,15 +4,13 @@
   "editor.detectIndentation": false,
   "editor.tabSize": 2,
   "editor.minimap.enabled": false,
+  "editor.rulers": [100],
   "workbench.sideBar.location": "right",
   "workbench.activityBar.visible": true,
   // Git configurations
   "git.autofetch": true,
   "git.autorefresh": true,
   "gitlens.views.repositories.autoRefresh": true,
-  //Plugin reWrap configuration
-  "rewrap.autoWrap.enabled": true,
-  "editor.rulers": [100],
   // Set formatters using trunk plugin
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
