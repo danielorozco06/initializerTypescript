@@ -1,7 +1,6 @@
 {
   "recommendations": [
     "capaj.vscode-standardjs-snippets",
-    "nicoespeon.abracadabra",
     "firsttris.vscode-jest-runner",
     "christian-kohler.npm-intellisense",
     "streetsidesoftware.code-spell-checker",
@@ -9,7 +8,6 @@
     "eamodio.gitlens",
     "oderwat.indent-rainbow",
     "christian-kohler.path-intellisense",
-    "stkb.rewrap",
     "SonarSource.sonarlint-vscode",
     "esbenp.prettier-vscode",
     "redhat.vscode-yaml",
